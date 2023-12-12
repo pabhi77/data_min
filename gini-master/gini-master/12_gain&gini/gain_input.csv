@@ -1,0 +1,5 @@
+x,y,z,c
+yes,yes,yes,class1
+yes,yes,no,class1
+no,no,yes,class2
+yes,no,no,class2
